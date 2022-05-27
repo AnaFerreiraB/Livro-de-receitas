@@ -1,6 +1,6 @@
-# Livro de recei
+# Livro de receitas
 
-## Bem vindo ao meu livro de receitas tas
+## Bem vindo ao meu livro de receitas
  
  * Strogonoff
  * Bolo de cenoura
